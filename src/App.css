@@ -14,6 +14,7 @@
 }
 h4{
   font-family: 'Inter';
+ margin-bottom: 20px;
 }
 
 .input{
@@ -22,6 +23,7 @@ h4{
 
 p{
   color: white;
+  /* margin-top: 50px; */
   size: 1ch;
 }
 #footer{
@@ -31,4 +33,32 @@ p{
   padding-bottom: 116px;
   
   
+}
+.heading{
+  font-weight: 700;
+  font-size: 30px;
+}
+.paragraph{
+  margin-top: 28px;
+  font-weight: 500;
+}
+.subhead{
+  margin-top: 45px;
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 160%;
+}
+.free{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+color: #FFFFFF;
+margin-top: 20px;
+}
+.icons{
+color: #FFFFFF;
 }

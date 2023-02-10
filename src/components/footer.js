@@ -1,9 +1,9 @@
 
 
 function Footer(){
-    return( <section id="footer">
-    <div class="row">
-        <div class="col-lg-6">
+    return(<section id="footer">
+    <div class="grid grid-cols-2">
+        <div>
             <div class="container">
                 <p>Prompt Generator</p>
                 <p>Dweep Daily</p>
@@ -12,7 +12,7 @@ function Footer(){
                 <p>Contribute to Dweep</p>
             </div>
         </div>
-        <div class="col-lg-6">
+        <div>
             <p> Dweep.io</p>
             <p>Made with love in India</p>
             <div class="icons">
